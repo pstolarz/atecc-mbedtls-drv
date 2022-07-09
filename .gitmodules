@@ -1,0 +1,6 @@
+[submodule "mbedtls"]
+	path = mbedtls
+	url = https://github.com/ARMmbed/mbedtls
+[submodule "cryptoauthlib"]
+	path = cryptoauthlib
+	url = https://github.com/MicrochipTech/cryptoauthlib
